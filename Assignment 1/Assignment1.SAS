@@ -1,7 +1,4 @@
-/*
-a) Read the AAUP data (dataset.txt) into SAS (name it yourself). The related
-description of the data can be found below. 
-*/
+
 
 DATA Q1;
 INFILE '/folders/myfolders/Garima_data.txt' DLM=',' ;
